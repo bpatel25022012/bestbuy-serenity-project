@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product test with tags","This test will get the product information by ID","SUCCESS","2020-05-25T23:40:25.375+01:00[Europe/London]","0.0","16.35"
+"Store test with tags","This test will get store information by ID","SUCCESS","2020-05-25T23:40:26.049+01:00[Europe/London]","0.0","16.83"
